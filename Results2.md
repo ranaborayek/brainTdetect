@@ -22,7 +22,7 @@ First we applied median filter on the original image using two libraries (cv and
 ![enhanced_cv2median_highpass1](https://github.com/user-attachments/assets/2cecd56e-17b0-417c-9539-8e797f0fcdcf)median filter (cv)
 
 
-[enhanced_medianski_highpass1](https://github.com/user-attachments/assets/503eac0f-9273-47f4-991c-121a80999fb4)median filter (scikit-image)
+![enhanced_medianski_highpass1](https://github.com/user-attachments/assets/503eac0f-9273-47f4-991c-121a80999fb4)median filter (scikit-image)
 
 
 *thresholding*
@@ -57,7 +57,7 @@ First we applied median filter on the original image using two libraries (cv and
 ![dilated_medianski_highpass1](https://github.com/user-attachments/assets/17194fac-7163-43f5-8488-d3476835bbac)median filter (scikit-image)
 
 
-median filter(scikit-image)![Figure 2025-01-01 230432](https://github.com/user-attachments/assets/dfce957d-6636-4b43-9943-66f0058e0a3b)
+![Figure 2025-01-01 230432](https://github.com/user-attachments/assets/dfce957d-6636-4b43-9943-66f0058e0a3b)median filter(scikit-image)
 
 
 <img width="224" alt="Figure 2025-01-01 230447" src="https://github.com/user-attachments/assets/3b32056a-d518-4806-99a2-8f8c3913059d" />median filter(cv)
