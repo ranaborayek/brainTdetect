@@ -2,9 +2,8 @@ First we applied median filter on the original image using two libraries (cv and
 
 *filtering*
 
-median filter (cv)
 
-![cv2median](https://github.com/user-attachments/assets/c20b5b3f-b282-4bab-ac28-d341de58b8f8)
+![cv2median](https://github.com/user-attachments/assets/c20b5b3f-b282-4bab-ac28-d341de58b8f8)median filter (cv)
 
 median filter (scikit-image)
 
