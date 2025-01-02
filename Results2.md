@@ -62,3 +62,4 @@ First we applied median filter on the original image using two libraries (cv and
 
 <img width="224" alt="Figure 2025-01-01 230447" src="https://github.com/user-attachments/assets/3b32056a-d518-4806-99a2-8f8c3913059d" />median filter(cv)
 
+![TCGA_CS_4941_19960909_13_mask](https://github.com/user-attachments/assets/a3ffbb5a-0b67-4f44-8135-6a8b2483824c) Ground Truth Mask
