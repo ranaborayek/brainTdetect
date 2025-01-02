@@ -1,1 +1,37 @@
+First we applied median filter on the original image using two libraries (cv and scikit-image)
+median filter (cv)
+
+median filter (scikit-image)
+
+and then gaussian high pass filter
+median filter (cv)
+
+median filter (scikit-image)
+
+added the original image to the result
+median filter (cv)
+
+median filter (scikit-image)
+
+thresholding
+median filter (cv)
+
+median filter (scikit-image)
+
+watershed segmentation
+median filter (cv)
+
+median filter (scikit-image)
+
+erosion
+median filter (cv)
+
+median filter (scikit-image)
+
+dilation
+median filter (cv)
+
+median filter (scikit-image)
+
+
 
